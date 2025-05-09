@@ -4,10 +4,10 @@
 0=true /chức năng auto tbt
 1=true /chức năng auto nuôi pet
 2=true /chức năng auto nghiền
-3=false /chức năng auto chuyển nl
+3=true /chức năng auto chuyển nl
 4=false /chức năng auto tiên khí
-5=true
-6=true
-7=true
-8=true
-9=true
+5=false
+6=false
+7=false
+8=false
+9=false
